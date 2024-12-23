@@ -1,2 +1,25 @@
-node_modules
 dist
+# macOS system files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Android files (common)
+.android/
+*.apk
+
+# AnyDesk
+.anydesk/
+
+# Node.js dependencies
+node_modules/
+
+# Angular configuration files
+.angular-config.json
+
+# Other files you might want to ignore
+*.log
+*.bak
+*.swp
